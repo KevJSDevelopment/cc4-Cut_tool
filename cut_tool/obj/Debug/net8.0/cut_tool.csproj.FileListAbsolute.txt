@@ -1,0 +1,15 @@
+/Users/kevinsheehan/Projects/Coding Challenges/cc4-cut_tool/cut_tool/bin/Debug/net8.0/cut_tool
+/Users/kevinsheehan/Projects/Coding Challenges/cc4-cut_tool/cut_tool/bin/Debug/net8.0/cut_tool.deps.json
+/Users/kevinsheehan/Projects/Coding Challenges/cc4-cut_tool/cut_tool/bin/Debug/net8.0/cut_tool.runtimeconfig.json
+/Users/kevinsheehan/Projects/Coding Challenges/cc4-cut_tool/cut_tool/bin/Debug/net8.0/cut_tool.dll
+/Users/kevinsheehan/Projects/Coding Challenges/cc4-cut_tool/cut_tool/bin/Debug/net8.0/cut_tool.pdb
+/Users/kevinsheehan/Projects/Coding Challenges/cc4-cut_tool/cut_tool/obj/Debug/net8.0/cut_tool.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinsheehan/Projects/Coding Challenges/cc4-cut_tool/cut_tool/obj/Debug/net8.0/cut_tool.AssemblyInfoInputs.cache
+/Users/kevinsheehan/Projects/Coding Challenges/cc4-cut_tool/cut_tool/obj/Debug/net8.0/cut_tool.AssemblyInfo.cs
+/Users/kevinsheehan/Projects/Coding Challenges/cc4-cut_tool/cut_tool/obj/Debug/net8.0/cut_tool.csproj.CoreCompileInputs.cache
+/Users/kevinsheehan/Projects/Coding Challenges/cc4-cut_tool/cut_tool/obj/Debug/net8.0/cut_tool.sourcelink.json
+/Users/kevinsheehan/Projects/Coding Challenges/cc4-cut_tool/cut_tool/obj/Debug/net8.0/cut_tool.dll
+/Users/kevinsheehan/Projects/Coding Challenges/cc4-cut_tool/cut_tool/obj/Debug/net8.0/refint/cut_tool.dll
+/Users/kevinsheehan/Projects/Coding Challenges/cc4-cut_tool/cut_tool/obj/Debug/net8.0/cut_tool.pdb
+/Users/kevinsheehan/Projects/Coding Challenges/cc4-cut_tool/cut_tool/obj/Debug/net8.0/cut_tool.genruntimeconfig.cache
+/Users/kevinsheehan/Projects/Coding Challenges/cc4-cut_tool/cut_tool/obj/Debug/net8.0/ref/cut_tool.dll
