@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cut_tool")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76a12ad035537bd127ff622b9adff5d74c7c7cac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aec6aa367afc522de9a1262a5514994581caa922")]
 [assembly: System.Reflection.AssemblyProductAttribute("cut_tool")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cut_tool")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

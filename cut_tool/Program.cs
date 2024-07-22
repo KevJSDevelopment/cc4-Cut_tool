@@ -57,11 +57,14 @@
             string fieldValue = "";
             for (int j = 0; j < lines[i].Length; j++)
             {
-                if(lines[i].Substring(j, delLength) == delimiter){
-                    tabCount++;
-                }
-
-                // if(fields.)
+                for(int k = j + delLength; lines[i].Substring(k, delLength) != delimiter; k++) 
+                {
+                    if(lines[i].Substring(j, delLength) == delimiter){
+                        fieldValue = lines[i].Substring(j + delLength, k);
+                        Console.WriteLine(fieldValue);
+                        tabCount++;
+                    }
+                } 
             }
         }
     }
