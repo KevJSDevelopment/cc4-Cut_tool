@@ -1,0 +1,17 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [{
+        "name": ".NET Core Launch (console)",
+        "type": "coreclr",
+        "request": "launch",
+        "preLaunchTask": "build",
+        "program": "${workspaceFolder}/cut_tool/bin/Debug/net8.0/cut_tool.dll",
+        "args": ["cut-tool", "-f2", "/challenge-cut/sample.tsv"],
+        "cwd": "${workspaceFolder}",
+        "stopAtEntry": false,
+        "console": "internalConsole"
+    }]
+}
