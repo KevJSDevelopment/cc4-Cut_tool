@@ -9,7 +9,7 @@
         "request": "launch",
         "preLaunchTask": "build",
         "program": "${workspaceFolder}/cut_tool/bin/Debug/net8.0/cut_tool.dll",
-        "args": ["cut-tool", "-f2", "/challenge-cut/sample.tsv"],
+        "args": ["cut-tool", "-f2", "-d", "/challenge-cut/sample.tsv"],
         "cwd": "${workspaceFolder}",
         "stopAtEntry": false,
         "console": "internalConsole"
